@@ -8,3 +8,4 @@
 - dotnet run          ==========> to run project
 - dotnet dev-certs https    ======> 
 - dotnet dev-certs https -t   =======> to start use https in ur project
+- dotnet watch run         =========> server listen any change to restart

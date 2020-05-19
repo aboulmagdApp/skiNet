@@ -1,0 +1,10 @@
+- create API solution and working with dotnet CLI
+======================
+- mkdir 'folderName'   =========> create folder 
+- dotnet new sln       =========> create solumtion file
+- dotnet new webapi -o API  =======> create web API project with output named API
+- dotnet sln add 'project name'   ===========> add API project to solution 
+- dotnet sln list       ===========> to see all project in solumtion
+- dotnet run          ==========> to run project
+- dotnet dev-certs https    ======> 
+- dotnet dev-certs https -t   =======> to start use https in ur project

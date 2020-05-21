@@ -38,3 +38,4 @@ D:\Learning\NetCore\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Opti
 D:\Learning\NetCore\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 D:\Learning\NetCore\skinet\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
 D:\Learning\NetCore\skinet\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+D:\Learning\NetCore\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll

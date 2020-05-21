@@ -9,3 +9,5 @@
 - dotnet dev-certs https    ======> 
 - dotnet dev-certs https -t   =======> to start use https in ur project
 - dotnet watch run         =========> server listen any change to restart
+- dotnet --info            ========> check which v of sdk we have
+- dotnet ef migrations add InitialCreate -o Data/Migrations  ====> migration with output in this path 'Data/Migrations'

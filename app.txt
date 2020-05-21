@@ -1,10 +1,13 @@
 - create API solution and working with dotnet CLI
 ======================
+- dotnet build         =======> build project or sln
+- dotnet restore       =======> restore solution or project
+- dotnet new -h        ========> show help how can create dotnet core project
 - mkdir 'folderName'   =========> create folder 
 - dotnet new sln       =========> create solumtion file
 - dotnet new webapi -o API  =======> create web API project with output named API
 - dotnet sln add 'project name'   ===========> add API project to solution 
-- dotnet sln list       ===========> to see all project in solumtion
+- dotnet sln list       ===========> to see all project in solution
 - dotnet run          ==========> to run project
 - dotnet dev-certs https    ======> 
 - dotnet dev-certs https -t   =======> to start use https in ur project
@@ -12,3 +15,6 @@
 - dotnet --info            ========> check which v of sdk we have
 - dotnet ef migrations add InitialCreate -o Data/Migrations  ====> migration with output in this path 'Data/Migrations'
 - dotnet ef database update    ========> update database
+- dotnet new classlib -o Core  ========> in this project will store the entites with output project name Core
+- dotnet new classlib -o Infrastructure  ========> this project has app context
+- dotnet add reference ../Infrastructure ========> add Infrastructure project reference to API Project

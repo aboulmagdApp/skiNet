@@ -1,0 +1,4 @@
+- API 
+==========
+- AutoMapper.Extensions.Microsoft 
+    AutoMapper.Extensions.Microsoft.DependencyInjection

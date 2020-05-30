@@ -2,3 +2,7 @@
 ==========
 - AutoMapper.Extensions.Microsoft 
     AutoMapper.Extensions.Microsoft.DependencyInjection
+
+- Swashbuckle.AspnetCore
+------> Swashbuckle.AspNetCore.SwaggerGen
+------> Swashbuckle.AspNetCore.SwaggerUI

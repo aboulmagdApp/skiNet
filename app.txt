@@ -18,3 +18,9 @@
 - dotnet new classlib -o Core  ========> in this project will store the entites with output project name Core
 - dotnet new classlib -o Infrastructure  ========> this project has app context
 - dotnet add reference ../Infrastructure ========> add Infrastructure project reference to API Project
+
+
+====================
+- create client app
+===================
+- ng new 'client'     ========> create project named client

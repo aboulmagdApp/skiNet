@@ -26,3 +26,7 @@
 - ng new 'client'     ========> create project named client
 - ng add ngx-bootstrap ========> Angular CLI ng add command will update your Angular project with the necessary ngx-bootstrap dependencies, make changes to package.json, angular.json and will execute initialization code.
 - npm install font-awesome
+
+
+
+- ng g c nav-bar --skip-tests     ========> genertate component in angular app without test file

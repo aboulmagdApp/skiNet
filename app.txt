@@ -30,3 +30,7 @@
 
 
 - ng g c nav-bar --skip-tests     ========> genertate component in angular app without test file
+- ng g m core               ===========> create core model for our app
+- ng g c 'component name'   ============> create component
+- ng g s 'service name'    =============> create service
+- --flat --skip-tests     ==============> option add when gnerate component/model/servive when we need component flat without test file

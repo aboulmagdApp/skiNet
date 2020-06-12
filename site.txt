@@ -1,1 +1,2 @@
 - http://csvjson.com/csv2json    ========> to convert csv data to json
+- http://www.jsontots.com/       ========> to convert json object to TS interface

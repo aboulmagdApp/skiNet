@@ -16,7 +16,7 @@ baseUrl = 'https://localhost:5001/api/';
   getProducts(brandId?: number, typeId?: number) {
     let params = new HttpParams();
     if(brandId){
-      params = params.append('brandIs', typeId.toString());
+      params = params.append('brandId', brandId.toString());
     }
     if(typeId){
       params = params.append('typeId', typeId.toString())

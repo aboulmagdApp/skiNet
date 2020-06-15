@@ -27,6 +27,7 @@
 - ng add ngx-bootstrap ========> Angular CLI ng add command will update your Angular project with the necessary ngx-bootstrap dependencies, make changes to package.json, angular.json and will execute initialization code.
 - npm install font-awesome
 - npm install ngx-toastr
+- npm install --save xng-breadcrumb
 
 
 

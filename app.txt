@@ -29,6 +29,7 @@
 - npm install ngx-toastr
 - npm install --save xng-breadcrumb
 - npm install bootswatch
+- npm install ngx-spinner --save
 
 
 
